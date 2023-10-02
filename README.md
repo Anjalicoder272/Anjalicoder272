@@ -7,8 +7,6 @@
 
 <!-- (https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg?fj=1) -->
 
-<h1 align="center">Hi 👋, I'm Kaustubh Mishra</h1>
-<h3 align="center">A passionate Software Engineer developer from India</h3>
 <h1 align="center">Hi 👋, I'm Anjali Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
