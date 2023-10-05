@@ -10,9 +10,14 @@
 <h1 align="center">Hi 👋, I'm Anjali Sharma</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **DSA ,REACT**
 
-- 📫 How to reach me **anjalisharma.coder@gmail.com**
+#  About Me:
+Hi, I'm Anjali Sharma, a 3rd-year Computer Science student at Axis Institute Of Technology And Management.
+
+🚀 Passionate about coding, problem-solving, and exploring new tech.<br>
+🔍 I dive into data structures, algorithms, and love turning ideas into code.<br>
+💡 Always eager to learn and adapt, with hands-on experience in coding .<br>
+🌱 Let's connect with me **anjalisharma.coder@gmail.com**.<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
