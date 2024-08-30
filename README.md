@@ -12,7 +12,7 @@
 
 
 #  About Me:
-Hi, I'm Anjali Sharma, a 3rd-year Computer Science student at Axis Institute Of Technology And Management.
+Hi, I'm Anjali Sharma, a 4th-year Computer Science student at Axis Institute Of Technology And Management.
 
 🚀 Passionate about coding, problem-solving, and exploring new tech.<br>
 🔍 I dive into data structures, algorithms, and love turning ideas into code.<br>
