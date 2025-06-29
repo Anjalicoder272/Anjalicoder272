@@ -23,5 +23,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Anjalicoder272&theme=dark&hide_border=false)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-sharmacoder/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anjali-sharmacoder/) [![Leetcode](https://img.shields.io/badge/Leetcode-%230077B5.svg?logo=leetcode&logoColor=white)](https://leetcode.com/u/anjalisharma_coder/) 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
