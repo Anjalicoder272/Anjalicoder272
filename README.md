@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 # 💫 Hi 👋, I'm Anjali Sharma
 **A Frontend Developer at GeeksforGeeks.😊😊**
 
@@ -6,12 +10,6 @@
 - 🌐 **I’m skilled in JavaScript, React.JS, and Next.JS for modern UI development.**
 - 💡 **I’m a constant learner, always exploring new technologies and better ways to code.** 
 - ⚡ **Fun fact: Coffee Runs in My Veins, and JavaScript Runs in My Brain ☕🧠**
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anjalicoder272&theme=radical&no-frame=false&no-bg=false&margin-w=4)
