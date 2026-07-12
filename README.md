@@ -6,10 +6,10 @@
 **A Frontend Developer at GeeksforGeeks.😊😊**
 
 - 🎓 **I’m a 2025 B.Tech graduate.** 
-- 💻 **I’m currently working as a Frontend Developer at GeeksforGeeks at GFG Connect Project.** 
+- 💻 **I’m currently working as a Full-Stack Developer at GeeksforGeeks. ** 
 - 🌐 **I’m skilled in JavaScript, React.JS, and Next.JS for modern UI development.**
 - 💡 **I’m a constant learner, always exploring new technologies and better ways to code.** 
-- ⚡ **Fun fact: Coffee Runs in My Veins, and JavaScript Runs in My Brain ☕🧠**
+- ⚡ **Fun fact: Coffee Runs in My Veins, and JavaScript runs in My Brain ☕🧠**
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Anjalicoder272&theme=radical&no-frame=false&no-bg=false&margin-w=4)
