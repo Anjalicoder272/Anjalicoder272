@@ -3,7 +3,7 @@
 </div>
 
 # 💫 Hi 👋, I'm Anjali Sharma
-**A Frontend Developer at GeeksforGeeks.😊😊**
+**A Full-stack Developer at GeeksforGeeks.😊😊**
 
 - 🎓 **I’m a 2025 B.Tech graduate.** 
 - 💻 **I’m currently working as a Full-Stack Developer at GeeksforGeeks. ** 
